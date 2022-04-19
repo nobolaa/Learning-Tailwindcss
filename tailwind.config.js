@@ -5,6 +5,9 @@ module.exports = {
     "./resources/**/*.vue",
   ],
   theme: {
+    fontFamily:{
+      'josefin': 'Josefin Sans'
+    },
     container: {
       center: true,
     },

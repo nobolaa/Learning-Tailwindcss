@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,20 +9,8 @@
 </head>
 <body>
     <div class="container">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-16 gap-4">
-            <div class="bg-blue-200">A</div>
-            <div class="bg-blue-300">B</div>
-            <div class="bg-blue-400">C</div>
-            <div class="bg-blue-500">D</div>
-            <div class="bg-blue-600">C</div>
-            <div class="bg-blue-700">D</div>
-            <div class="bg-blue-200">A</div>
-            <div class="bg-blue-300">B</div>
-            <div class="bg-blue-400">C</div>
-            <div class="bg-blue-500">D</div>
-            <div class="bg-blue-600">C</div>
-            <div class="bg-blue-700">D</div>
-            <div class="bg-blue-200">A</div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+            <div class="bg-blue-200 md:col-span-2 lg:col-span-4">A</div>
             <div class="bg-blue-300">B</div>
             <div class="bg-blue-400">C</div>
             <div class="bg-blue-500">D</div>

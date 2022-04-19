@@ -9,10 +9,15 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hola</h1>
-        <h2>Hola</h2>
-        <h3>Hola</h3>
-        <h4>Hola</h4>
+        <div class="grid grid-cols-4">
+            <div class="bg-blue-200">A</div>
+            <div class="bg-blue-300">B</div>
+            <div class="bg-blue-400">C</div>
+            <div class="bg-blue-500">D</div>
+            
+            <div class="bg-blue-600">C</div>
+            <div class="bg-blue-700">D</div>
+        </div>
     </div>
 </body>
 </html>

@@ -8,9 +8,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hola</h1>
-    <h2>Hola</h2>
-    <h3>Hola</h3>
-    <h4>Hola</h4>
+    <div class="container">
+        <h1>Hola</h1>
+        <h2>Hola</h2>
+        <h3>Hola</h3>
+        <h4>Hola</h4>
+    </div>
 </body>
 </html>

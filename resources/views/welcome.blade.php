@@ -18,7 +18,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="bg-blue-700 h-12 bg-opacity-25"></div>
+        <div class="h-12 bg-gradient-to-r from-blue-500 via-green-600 to-yellow-400"></div>
     </div>
 </body>
 </html>

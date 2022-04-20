@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container bg-gray-300">
-        <img class="w-full h-64 object-cover object-top" src="{{ asset('img/paisaje.jpg') }}" alt="">
+        <img class="w-full h-64 object-none" src="{{ asset('img/paisaje.jpg') }}" alt="">
      </div>  
 </body>
 </html>

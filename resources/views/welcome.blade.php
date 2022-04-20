@@ -8,24 +8,30 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="container pt-5">
-        <div class="w-64 h-64 bg-gray-500 border-blue-800 border-8 border-dashed rounded-full"></div>
-    </div>
 
-    <div class="divide-y-8 divide-gray-600 divide-dashed">
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam asperiores rerum nam ratione ab possimus magni temporibus perferendis consequatur, perspiciatis rem voluptate veniam aliquam magnam blanditiis doloremque ut repudiandae at?</p>
-        <p>Cumque repellat provident consectetur animi, nemo ex voluptatum commodi obcaecati enim eos eligendi corrupti assumenda quam perspiciatis a dolores? Deleniti architecto error eveniet atque non deserunt esse! Est, atque numquam.</p>
-        <p>Optio explicabo omnis aperiam numquam, ipsum nihil eveniet suscipit ut iste vel. Expedita dolores aperiam maxime rem voluptas totam tempore quae facilis eaque, ipsam, quas quos minima atque quisquam consequuntur.</p>
-        <p>Molestiae delectus placeat illo quae beatae ratione commodi ducimus aspernatur reprehenderit voluptatum officiis quasi vel libero adipisci non, expedita reiciendis ipsa repellendus sint. Porro ducimus tenetur vitae amet, necessitatibus architecto.</p>
-        <p>Necessitatibus praesentium accusamus, velit vitae, optio a deserunt explicabo dolores placeat officiis nemo molestiae temporibus perspiciatis mollitia corrupti! Molestias eius cupiditate excepturi possimus nulla doloribus adipisci reiciendis repellat enim non.</p>
-    </div>
-
-    <nav class="divide-x-2 divide-blue-600">
-        <a href="" class="pl-1">Link 1</a>
-        <a href="" class="pl-1">Link 2</a>
-        <a href="" class="pl-1">Link 3</a>
-        <a href="" class="pl-1">Link 4</a>
-        <a href="" class="pl-1">Link 5</a>
-    </nav>
-    </body>
+    <div class="container">
+        <table>
+            <thead>
+                <tr>
+                    <th class="border border-gray-400 px-4 py-2 text-gray-800">Pais</th>
+                    <th class="border border-gray-400 px-4 py-2 text-gray-800">Ciudad</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="bg-gray-200">
+                    <td class="border border-gray-400 px-4 py-2">Perú</td>
+                    <td class="border border-gray-400 px-4 py-2">Lima</td>
+                </tr>
+                <tr>
+                    <td class="border border-gray-400 px-4 py-2">Colombia</td>
+                    <td class="border border-gray-400 px-4 py-2">Bogota</td>
+                </tr>
+                <tr class="bg-gray-200">
+                    <td class="border border-gray-400 px-4 py-2">España</td>
+                    <td class="border border-gray-400 px-4 py-2">Madrid</td>
+                </tr>
+            </tbody>
+        </table>  
+    </div>  
+</body>
 </html>

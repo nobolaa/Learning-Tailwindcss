@@ -18,7 +18,9 @@
 </head>
 <body>
     <div class="container">
-        <div class="h-12 bg-gradient-to-r from-blue-500 via-green-600 to-yellow-400"></div>
+        <div class="bg-gradient-to-r from-blue-500 via-green-600 to-yellow-400 text-center font-extrabold text-5xl bg-clip-text text-transparent">
+            Hola mundo
+        </div>
     </div>
 </body>
 </html>

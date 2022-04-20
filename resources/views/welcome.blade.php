@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container pt-5">
-        <div class="w-64 h-64 bg-gray-500 border-blue-800 border-l-8 hover:border-opacity-25"></div>
+        <div class="w-64 h-64 bg-gray-500 border-blue-800 border-8 border-dashed rounded-full"></div>
     </div>
 </body>
 </html>

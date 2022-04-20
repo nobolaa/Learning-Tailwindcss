@@ -9,13 +9,8 @@
     <title>Document</title>
 </head>
 <body>
+    <div class="bg-black h-screen w-screen">
 
-    <div class="container">
-        <div class="bg-blue-600 h-64">
-            <div class="bg-red-600 h-full max-w-3xl">
-
-            </div>
-        </div>
     </div>  
 </body>
 </html>

@@ -9,10 +9,10 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="container">
-        <div class="bg-gray-300 w-64 h-32 p-8 border-8 border-gray-500 box-content">
-            <div class="bg-gray-500 h-full w-full"></div>    
-        </div>  
+    <div class="container mt-4 bg-blue-600">
+        <div class="bg-gray-400 text-gray-700 text-center px-4 py-2 inline-block">1</div>
+        <div class="bg-gray-400 text-gray-700 text-center px-4 py-2 my-2 inline-block">2</div>
+        <div class="bg-gray-400 text-gray-700 text-center px-4 py-2 inline-block">3</div>
     </div>  
 </body>
 </html>

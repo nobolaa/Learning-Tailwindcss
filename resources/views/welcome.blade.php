@@ -11,51 +11,27 @@
 <body>
     <div class="container">
         
-        <div class="bg-gray-300 flex justify-center h-64 m-2">
+        <div class="bg-gray-300 h-64 m-2 flex justify-center">
 
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">1</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">2</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">3</div>
-
-        </div>
-        
-        <div class="bg-gray-300 flex justify-center h-64 items-start m-2">
-
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">1</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">2</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">3</div>
+            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 w-64">1</div>
+            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 w-64">2</div>
+            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 w-64">3</div>
 
         </div>
         
-        <div class="bg-gray-300 flex justify-center h-64 items-end m-2">
+        <div class="bg-gray-300 h-64 m-2 flex justify-center flex-wrap">
 
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">1</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">2</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">3</div>
-
-        </div>
-        
-        <div class="bg-gray-300 flex justify-center h-64 items-center m-2">
-
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">1</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">2</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2">3</div>
+            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 w-64">1</div>
+            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 w-64">2</div>
+            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 w-64">3</div>
 
         </div>
         
-        <div class="bg-gray-300 flex justify-center h-64 items-start m-2">
+        <div class="bg-gray-300 h-64 m-2 flex justify-center flex-wrap-reverse">
 
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 text-sm">1</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 text-lg">2</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 text-3xl">3</div>
-
-        </div>
-        
-        <div class="bg-gray-300 flex justify-center h-64 items-baseline m-2">
-
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 text-sm">1</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 text-lg">2</div>
-            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 text-3xl">3</div>
+            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 w-64">1</div>
+            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 w-64">2</div>
+            <div class="bg-gray-400 text-gray-800 px-4 py-2 m-2 w-64">3</div>
 
         </div>
     </div>

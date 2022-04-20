@@ -12,7 +12,7 @@
 
     <div class="container">
         <div class="bg-blue-600 h-64">
-            <div class="bg-red-600 h-full md:w-3/4 lg:w-1/2">
+            <div class="bg-red-600 h-full max-w-3xl">
 
             </div>
         </div>

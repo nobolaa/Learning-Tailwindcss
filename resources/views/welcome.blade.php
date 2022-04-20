@@ -6,21 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <title>Document</title>
-    <style>
-        .imagen{
-            background-image: url("{{asset('img/tailwind-intellisense.jpg')}}");
-            height: 400px;
-            width: 900px;
-            margin: 0 auto;
-        }
-    </style>
-
 </head>
 <body>
-    <div class="container">
-        <div class="bg-gradient-to-r from-blue-500 via-green-600 to-yellow-400 text-center font-extrabold text-5xl bg-clip-text text-transparent">
-            Hola mundo
-        </div>
+    <div class="container pt-5">
+        <div class="w-64 h-64 bg-gray-500 border-blue-800 border-l-8 hover:border-opacity-25"></div>
     </div>
 </body>
 </html>
